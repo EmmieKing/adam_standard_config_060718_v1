@@ -1,0 +1,17 @@
+{
+    "env_configs": [
+        {
+            "env": "prod",
+            "url": "https://pro-equinox-162418.appspot.com/_ah/api/adam/v1",
+            "workspace": "ba00cb5c-6b31-4f79-a5d6-3ffbbec0350c",
+            "token": "8dwJAsLERNb6PrBvvEeC05XdH5Y2"
+        },
+        {
+            "env": "dev",
+            "url": "https://adam-dev-193118.appspot.com/_ah/api/adam/v1",
+            "workspace": "8a9af0bf-4851-4283-beb3-bb00fa637d95",
+            "token": ""
+        }
+    ],
+    "default_env": "prod"
+}

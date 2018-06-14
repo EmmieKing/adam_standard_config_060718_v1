@@ -1,0 +1,7 @@
+{
+	"ADAM_config": {
+		"adam_package_path"			: "ADAM",
+		"data_path"					: "data",
+		"environment_config_file"	: "auth_config_060718.json"
+	}
+}
